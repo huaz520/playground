@@ -1,4 +1,4 @@
-# Playground
+# Playground of HuaHua
 
 A place to play with `git`.
 
